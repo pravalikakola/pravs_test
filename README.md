@@ -1,8 +1,9 @@
 # pravs_test
-##ryudk
-####cdulfulg;.
+## ryudk
+#### cdulfulg;.
 **this is**
-use `gi status` to sud
+
+use `git status` to sud
 ```
 tyd
 xuuxx
